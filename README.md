@@ -7,14 +7,14 @@ I'm a **BSIT graduate** (July 2026) from Global Reciprocal Colleges with hands-o
 
 <br/>
 
-- 🎓 **Graduating this July 2026** — wrapping up my BSIT at Global Reciprocal Colleges
-- 💼 Interning as a **Junior Web Developer** at Little Ark Foundation Inc., building responsive UIs and mobile features with Next.js and Expo React Native
-- 📈 Continuously **upskilling** — keeping up with the latest in React ecosystem, TypeScript patterns, and modern backend tooling
-- 🛠️ Deepening my skills in **Supabase**, **PostgreSQL**, and full-stack **Next.js** app architecture
+- 🎓 **Graduating this July 2026** — wrapping up my BSIT at Global Reciprocal Colleges  
+- 💼 Interning as a **Junior Web Developer** at Little Ark Foundation Inc., building responsive UIs and mobile features with Next.js and Expo React Native  
+- 📈 Continuously **upskilling** — React, TypeScript, and modern backend tooling  
+- 🛠️ Strengthening skills in **Supabase**, **PostgreSQL**, and full-stack **Next.js** architecture  
 
-<br/>
+---
 
-### 🎨 Frontend:
+### 🎨 Frontend
 
 <p align="left">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
@@ -27,9 +27,9 @@ I'm a **BSIT graduate** (July 2026) from Global Reciprocal Colleges with hands-o
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
 </p>
 
-<br/>
+---
 
-### 🗄️ Backend & Database:
+### 🗄️ Backend & Database
 
 <p align="left">
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
@@ -39,9 +39,9 @@ I'm a **BSIT graduate** (July 2026) from Global Reciprocal Colleges with hands-o
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-<br/>
+---
 
-### 🔧 Tools:
+### 🔧 Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -51,9 +51,9 @@ I'm a **BSIT graduate** (July 2026) from Global Reciprocal Colleges with hands-o
   <img src="https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-<br/>
+---
 
-### 📬 How to reach me:
+### 📬 How to reach me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/corneliogatbonton" target="_blank">
@@ -64,21 +64,23 @@ I'm a **BSIT graduate** (July 2026) from Global Reciprocal Colleges with hands-o
   </a>
 </p>
 
-<br/>
+---
 
-### 📊 GitHub Stats:
+### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=corneliogatbontonjr21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=corneliogatbontonjr21&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=corneliogatbontonjr21&theme=tokyonight&hide_border=true"/>
 </p>
 
-<br/>
+---
+
+### 👀 Profile Views
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=7c3aed&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=corneliogatbontonjr21&label=Profile%20views&color=7c3aed&style=flat"/>
 </p>
