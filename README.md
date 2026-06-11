@@ -7,9 +7,9 @@ I'm a **BSIT graduate** (July 2026) from Global Reciprocal Colleges with hands-o
 
 <br/>
 
--  **Graduating this July 2026** — wrapping up my BSIT at Global Reciprocal Colleges  
+-  **Graduating this July 2026**  wrapping up my BSIT at Global Reciprocal Colleges  
 -  Interning as a **Junior Web Developer** at Little Ark Foundation Inc., building responsive UIs and mobile features with Next.js and Expo React Native  
--  Continuously **upskilling** — React, TypeScript, and modern backend tooling  
+-  Continuously **upskilling**  React, TypeScript, and modern backend tooling  
 -  Strengthening skills in **Supabase**, **PostgreSQL**, and full-stack **Next.js** architecture  
 
 ---
