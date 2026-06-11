@@ -7,14 +7,14 @@ I'm a **BSIT graduate** (July 2026) from Global Reciprocal Colleges with hands-o
 
 <br/>
 
-- 🎓 **Graduating this July 2026** — wrapping up my BSIT at Global Reciprocal Colleges  
-- 💼 Interning as a **Junior Web Developer** at Little Ark Foundation Inc., building responsive UIs and mobile features with Next.js and Expo React Native  
-- 📈 Continuously **upskilling** — React, TypeScript, and modern backend tooling  
-- 🛠️ Strengthening skills in **Supabase**, **PostgreSQL**, and full-stack **Next.js** architecture  
+-  **Graduating this July 2026** — wrapping up my BSIT at Global Reciprocal Colleges  
+-  Interning as a **Junior Web Developer** at Little Ark Foundation Inc., building responsive UIs and mobile features with Next.js and Expo React Native  
+-  Continuously **upskilling** — React, TypeScript, and modern backend tooling  
+-  Strengthening skills in **Supabase**, **PostgreSQL**, and full-stack **Next.js** architecture  
 
 ---
 
-### 🎨 Frontend
+###  Frontend
 
 <p align="left">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
@@ -29,7 +29,7 @@ I'm a **BSIT graduate** (July 2026) from Global Reciprocal Colleges with hands-o
 
 ---
 
-### 🗄️ Backend & Database
+###  Backend & Database
 
 <p align="left">
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
@@ -41,7 +41,7 @@ I'm a **BSIT graduate** (July 2026) from Global Reciprocal Colleges with hands-o
 
 ---
 
-### 🔧 Tools
+###  Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -53,7 +53,7 @@ I'm a **BSIT graduate** (July 2026) from Global Reciprocal Colleges with hands-o
 
 ---
 
-### 📬 How to reach me
+###  How to reach me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/corneliogatbonton" target="_blank">
@@ -66,7 +66,7 @@ I'm a **BSIT graduate** (July 2026) from Global Reciprocal Colleges with hands-o
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Jay-Scripts&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
@@ -79,7 +79,7 @@ I'm a **BSIT graduate** (July 2026) from Global Reciprocal Colleges with hands-o
 
 ---
 
-### 👀 Profile Views
+### Profile Views
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Jay-Scripts&label=Profile%20views&color=7c3aed&style=flat"/>
