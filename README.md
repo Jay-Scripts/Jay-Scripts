@@ -5,7 +5,7 @@
 
 
 
-I'm a **BSIT graduate** (July 2026) from Global Reciprocal Colleges with hands-on experience in **full-stack web development** and **QA testing**. I enjoy building responsive, database-driven web apps and writing clean, maintainable code. I've worked on real-world projects — from a Smart POS System to a donor-facing mobile app — and I bring both a developer and a tester's mindset to everything I build.
+I'm a **BSIT graduate** (July 2026) from Global Reciprocal Colleges with hands-on experience in **full-stack web development** and **QA testing**. I enjoy building responsive, database-driven web apps and writing clean, maintainable code. I've worked on real-world projects from a Smart POS System to a donor-facing mobile app and I bring both a developer and a tester's mindset to everything I build.
 
 <br/>
 
