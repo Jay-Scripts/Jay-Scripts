@@ -3,13 +3,13 @@
 
 <br/>
 
-### 👨‍💻 Who am I?
+
 
 I'm a **BSIT graduate** (July 2026) from Global Reciprocal Colleges with hands-on experience in **full-stack web development** and **QA testing**. I enjoy building responsive, database-driven web apps and writing clean, maintainable code. I've worked on real-world projects — from a Smart POS System to a donor-facing mobile app — and I bring both a developer and a tester's mindset to everything I build.
 
 <br/>
 
-### 🚀 What am I currently working on?
+
 
 - 🎓 **Graduating this July 2026** — wrapping up my BSIT at Global Reciprocal Colleges
 - 💼 Interning as a **Junior Web Developer** at Little Ark Foundation Inc., building responsive UIs and mobile features with Next.js and Expo React Native
