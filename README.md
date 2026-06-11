@@ -69,12 +69,12 @@ I'm a **BSIT graduate** (July 2026) from Global Reciprocal Colleges with hands-o
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=corneliogatbontonjr21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=corneliogatbontonjr21&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jay-Scripts&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jay-Scripts&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=corneliogatbontonjr21&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jay-Scripts&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -82,5 +82,5 @@ I'm a **BSIT graduate** (July 2026) from Global Reciprocal Colleges with hands-o
 ### 👀 Profile Views
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=corneliogatbontonjr21&label=Profile%20views&color=7c3aed&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=Jay-Scripts&label=Profile%20views&color=7c3aed&style=flat"/>
 </p>
