@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Cornelio Gatbonton Jr.</h1>
 <h3 align="center">Junior Web Developer · QA · Manila, Philippines 🇵🇭</h3>
-
 <br/>
 
 I'm a **BSIT graduate** (July 2026) from Global Reciprocal Colleges with hands-on experience in **full-stack web development** and **QA testing**. I enjoy building responsive, database-driven web apps and writing clean, maintainable code. I've worked on real-world projects from a Smart POS System to a donor-facing mobile app and I bring both a developer and a tester's mindset to everything I build.
-
 <br/>
 
 -  **Graduating this July 2026**  wrapping up my BSIT at Global Reciprocal Colleges  
@@ -15,7 +13,6 @@ I'm a **BSIT graduate** (July 2026) from Global Reciprocal Colleges with hands-o
 ---
 
 ###  Frontend
-
 <p align="left">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -29,7 +26,6 @@ I'm a **BSIT graduate** (July 2026) from Global Reciprocal Colleges with hands-o
 ---
 
 ###  Backend & Database
-
 <p align="left">
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -41,7 +37,6 @@ I'm a **BSIT graduate** (July 2026) from Global Reciprocal Colleges with hands-o
 ---
 
 ###  Tools
-
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -53,7 +48,6 @@ I'm a **BSIT graduate** (July 2026) from Global Reciprocal Colleges with hands-o
 ---
 
 ###  How to reach me
-
 <p align="left">
   <a href="https://www.linkedin.com/in/corneliogatbonton" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -66,20 +60,35 @@ I'm a **BSIT graduate** (July 2026) from Global Reciprocal Colleges with hands-o
 ---
 
 ###  GitHub Stats
-
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Jay-Scripts&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jay-Scripts&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
-
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jay-Scripts&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-### Profile Views
+###  Contribution Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jay-Scripts&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+</p>
 
+---
+
+###  Contribution Snake
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jay-Scripts/Jay-Scripts/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jay-Scripts/Jay-Scripts/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Jay-Scripts/Jay-Scripts/output/github-contribution-grid-snake.svg" width="100%"/>
+  </picture>
+</p>
+
+---
+
+### Profile Views
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Jay-Scripts&label=Profile%20views&color=7c3aed&style=flat"/>
 </p>
