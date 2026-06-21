@@ -64,7 +64,7 @@ I'm a **BSIT graduate** (July 2026) from Global Reciprocal Colleges with hands-o
   <img src="https://github-readme-stats.vercel.app/api?username=Jay-Scripts&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jay-Scripts&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
-<p align="left">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jay-Scripts&theme=tokyonight&hide_border=true"/>
 </p>
 
