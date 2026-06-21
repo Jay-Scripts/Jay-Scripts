@@ -77,7 +77,7 @@ I'm a **BSIT graduate** (July 2026) from Global Reciprocal Colleges with hands-o
 
 ---
 
-###  Contribution Snake
+###  Contribution 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jay-Scripts/Jay-Scripts/output/github-contribution-grid-snake-dark.svg">
@@ -87,8 +87,3 @@ I'm a **BSIT graduate** (July 2026) from Global Reciprocal Colleges with hands-o
 </p>
 
 ---
-
-### Profile Views
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Jay-Scripts&label=Profile%20views&color=7c3aed&style=flat"/>
-</p>
