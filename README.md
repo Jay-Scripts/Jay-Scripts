@@ -60,7 +60,7 @@ I'm a **BSIT graduate** (July 2026) from Global Reciprocal Colleges with hands-o
 ---
 
 ###  GitHub Stats
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jay-Scripts&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jay-Scripts&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
@@ -75,9 +75,6 @@ I'm a **BSIT graduate** (July 2026) from Global Reciprocal Colleges with hands-o
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jay-Scripts&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </p>
 
----
-
-###  Contribution 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jay-Scripts/Jay-Scripts/output/github-contribution-grid-snake-dark.svg">
@@ -87,3 +84,10 @@ I'm a **BSIT graduate** (July 2026) from Global Reciprocal Colleges with hands-o
 </p>
 
 ---
+
+
+### Profile Views
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Jay-Scripts&label=Profile%20views&color=7c3aed&style=flat"/>
+</p>
+
