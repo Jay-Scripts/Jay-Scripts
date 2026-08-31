@@ -46,7 +46,6 @@ I work across the stack: **UI, APIs, databases, authentication, RBAC, and QA tes
 </tr>
 </table>
 
----
 
 ## `> Tech Stack`
 
@@ -61,6 +60,11 @@ I work across the stack: **UI, APIs, databases, authentication, RBAC, and QA tes
 <img src="https://img.shields.io/badge/Playwright-161B22?style=flat-square&logo=playwright&logoColor=2EAD33" />
 <img src="https://img.shields.io/badge/shadcn/ui-161B22?style=flat-square&logo=shadcnui&logoColor=white" />
 <img src="https://img.shields.io/badge/Chart.js-161B22?style=flat-square&logo=chartdotjs&logoColor=FF6384" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Codex-161B22?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude_Code-161B22?style=flat-square&logo=anthropic&logoColor=D97757" />
 <img src="https://img.shields.io/badge/Cursor-161B22?style=flat-square&logo=cursor&logoColor=white" />
 
 </div>
@@ -94,7 +98,7 @@ Vue.js
 
 <td width="33%" valign="top">
 
-### `02 │ BACKEND + DATA`
+### `02 │ BACKEND + DATABASE`
 
 <img src="https://skillicons.dev/icons?i=supabase,postgres,mysql,php,nodejs&theme=dark" />
 
@@ -116,7 +120,7 @@ Authentication · RBAC
 
 <td width="33%" valign="top">
 
-### `03 │ MOBILE + TOOLS`
+### `03 │ DEV TOOLS`
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 
@@ -130,16 +134,18 @@ Expo · React Native
 
 Playwright · Manual QA
 
+**Development**
+
+Codex · Claude Code · Cursor · VS Code
+
 **Tools**
 
-Git · GitHub · Cursor · VS Code · Chart.js
+Git · GitHub · Chart.js
 
 </td>
 
 </tr>
 </table>
-
----
 
 ## `> Featured Projects`
 
