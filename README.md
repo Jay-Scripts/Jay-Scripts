@@ -24,19 +24,31 @@ src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:0d1117,
   <img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335" />
 </a>
 
+<br/><br/>
+
+
+
 </div>
 
 <br/>
 
+<table>
+<tr>
+<td>
 
+### `> Developer Profile`
 
 BSIT graduate with experience building full-stack web and mobile applications — from requirements to shipped features.
 
 I work across the stack: **UI, APIs, databases, authentication, RBAC, and QA testing.** My background spans both implementation and verification, which shapes how I write, test, and review code.
 
+</td>
+</tr>
+</table>
+
 ---
 
-## `> tech_stack`
+## `> Tech Stack`
 
 <div align="center">
 
@@ -129,7 +141,11 @@ Git · GitHub · Cursor · VS Code · Chart.js
 
 ---
 
-## `> featured_projects`
+## `> Featured Projects`
+
+<table>
+<tr>
+<td>
 
 ### 🩸 BloodNetwork.net
 
@@ -152,7 +168,15 @@ Built and worked on features involving donor event booking, authentication, role
 
 **700+ QA test cases** covering RBAC, UI validation, functional testing, regression, smoke testing, and UAT.
 
+</td>
+</tr>
+</table>
+
 <br/>
+
+<table>
+<tr>
+<td>
 
 ### ☕ Smart POS System
 
@@ -171,7 +195,15 @@ Multi-role point-of-sale system for ordering and transaction management.
 
 Includes a **sales analytics dashboard, relational database architecture, transaction workflows, user roles, and complete technical documentation.**
 
+</td>
+</tr>
+</table>
+
 <br/>
+
+<table>
+<tr>
+<td>
 
 ### 🚗 Car Rental Management System
 
@@ -191,9 +223,13 @@ Booking and fleet management platform with an administrative dashboard for **veh
 
 Integrated automated email notifications using **Nodemailer**.
 
+</td>
+</tr>
+</table>
+
 ---
 
-## `> quality_engineering`
+## `> Quality Engineering`
 
 <div align="center">
 
@@ -203,6 +239,10 @@ Integrated automated email notifications using **Nodemailer**.
 </div>
 
 <br/>
+
+<table>
+<tr>
+<td>
 
 ```text
 Coverage   RBAC · UI Validation · Functional · Regression · Smoke · UAT
@@ -216,20 +256,32 @@ I work on both sides of delivery — **building features and verifying them.**
 
 My testing experience covers authentication, role-based access control, form validation, responsive interfaces, CRUD workflows, end-to-end user journeys, regression testing, and defect verification.
 
+</td>
+</tr>
+</table>
+
 ---
 
-## `> github_stats`
+## `> Github Stats`
 
 <div align="center">
 
 
 
 <img
+width="60%"
 src="https://streak-stats.demolab.com?user=Jay-Scripts&hide_border=true&background=00000000&ring=58A6FF&fire=79C0FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=6E7681&currStreakNum=E6EDF3&sideNums=E6EDF3"
 />
 
-<br/><br/>
+</div>
 
+
+
+</div>
+
+
+
+</div>
 
 ---
 
@@ -243,9 +295,16 @@ src="https://streak-stats.demolab.com?user=Jay-Scripts&hide_border=true&backgrou
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Jay-Scripts&label=PROFILE+VIEWS&color=1f6feb&style=flat-square" />
+<img
+src="https://komarev.com/ghpvc/?username=Jay-Scripts&label=PROFILE+VIEWS&color=1f6feb&style=flat-square"
+/>
 
 <br/><br/>
+
+<img
+width="100%"
+src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0d1117,50:161b22,100:1f6feb&section=footer"
+/>
 
 <sub>BUILD · TEST · SHIP</sub>
 
