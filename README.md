@@ -1,6 +1,9 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:0d1117,50:161b22,100:1f6feb&text=Cornelio%20Gatbonton%20Jr.&fontColor=E6EDF3&fontSize=36&fontAlignY=44&desc=SOFTWARE%20DEVELOPER&descAlignY=64&descSize=16" alt="Cornelio Gatbonton Jr. — Software Developer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:0d1117,50:161b22,100:1f6feb&text=Cornelio%20Gatbonton%20Jr.&fontColor=E6EDF3&fontSize=36&fontAlignY=44&desc=SOFTWARE%20DEVELOPER%20%7C%20AI%20ENGINEER&descAlignY=64&descSize=16" alt="Cornelio Gatbonton Jr. — Software Developer | AI Engineer" />
+
+</div>
+
 
 **Full-Stack Web & Mobile · AI Applications**  
 Manila, Philippines
