@@ -1,317 +1,148 @@
 <div align="center">
 
-<img
-width="100%"
-src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:0d1117,50:161b22,100:1f6feb&text=Cornelio%20Gatbonton%20Jr.&fontColor=E6EDF3&fontSize=38&fontAlignY=44&desc=BUILD%20%E2%80%A2%20TEST%20%E2%80%A2%20SHIP&descAlignY=64&descSize=15"
-/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:0d1117,50:161b22,100:1f6feb&text=Cornelio%20Gatbonton%20Jr.&fontColor=E6EDF3&fontSize=36&fontAlignY=44&desc=SOFTWARE%20DEVELOPER&descAlignY=64&descSize=16" alt="Cornelio Gatbonton Jr. — Software Developer" />
 
-<a href="https://readme-typing-svg.demolab.com">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=680&lines=Full-Stack+Developer+%7C+Manila%2C+Philippines;Next.js+%C2%B7+React+%C2%B7+TypeScript+%C2%B7+Supabase+%C2%B7+Expo;Building+web+%26+mobile+applications+with+a+QA+mindset"
-    alt="Typing SVG"
-  />
-</a>
+**Full-Stack Web & Mobile · AI Applications**  
+Manila, Philippines
 
-<br/><br/>
-
-<a href="https://cornelio-portfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/corneliogatbonton">
-  <img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
-</a>
-<a href="mailto:corneliogatbontonjr21@gmail.com">
-  <img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335" />
-</a>
-
-<br/><br/>
-
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=vercel&logoColor=white)](https://cornelio-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/corneliogatbonton)
+[![Email](https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:corneliogatbontonjr21@gmail.com)
 
 </div>
 
-<br/>
+## About Me
+
+I'm a software developer and BSIT graduate with hands-on experience building full-stack web and mobile applications. My primary stack is **TypeScript, Next.js, React, Supabase, and PostgreSQL**.
+
+I work from requirements through deployment, building responsive interfaces, backend APIs, relational databases, authentication, and role-based access control. My projects include blood management, point-of-sale, booking, and school queuing systems.
+
+## Languages & Tools
+
+### Languages
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+### Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+![SweetAlert2](https://img.shields.io/badge/SweetAlert2-7066E0?style=for-the-badge)
+
+### Backend & Databases
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Mobile
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-1C1E24?style=for-the-badge&logo=expo&logoColor=white)
+![NativeWind](https://img.shields.io/badge/NativeWind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### Testing
+
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+
+### Development Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-161B22?style=for-the-badge&logo=openai&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-161B22?style=for-the-badge&logo=cursor&logoColor=white)
+
+
+**Core skills:** REST APIs · Authentication & RBAC · Responsive Web Design · Relational Database Design
+
+**Also worked with:** HTML · CSS · Bootstrap · Chart.js · Playwright
+
+## What I Build
+
+- **Web applications:** Responsive interfaces, reusable components, dashboards, and management systems.
+- **Backend systems:** REST APIs, authentication, permissions, relational database design, and reporting workflows.
+- **Mobile applications:** React Native and Expo applications connected to backend services.
+- **AI applications:** Model API integrations, streaming, structured outputs, tool calling, and RAG, with response evaluation and cost monitoring.
+
+## Featured Projects
 
 <table>
 <tr>
-<td>
-
-### `> Developer Profile`
-
-BSIT graduate with experience building full-stack web and mobile applications — from requirements to shipped features.
-
-I work across the stack: **UI, APIs, databases, authentication, RBAC, and QA testing.** My background spans both implementation and verification, which shapes how I write, test, and review code.
-
+<td width="50%" valign="top">
+<h3>🩸 BloodNetwork.net</h3>
+<p><strong>NPO Startup · Internship</strong><br><sub>Nov 2025 – Aug 2026</sub></p>
+<p>BloodNetwork.net needed web and mobile features to support blood donation and blood bank operations, including reports previously prepared manually. During my internship, I contributed to donor and internal management workflows. I developed booking, donation history, authentication, RBAC, QR, inventory, and dashboard features. The delivered features supported these workflows and replaced manual report preparation with system-generated reports.</p>
+<p><strong>Stack</strong><br>Next.js · React · TypeScript · Supabase · PostgreSQL · Tailwind CSS · Shadcn UI</p>
+</td>
+<td width="50%" valign="top">
+<h3>🌐 Little Ark Website Modernization</h3>
+<p><strong>Little Ark Foundation Inc. · Website Rebuild</strong><br><sub>Jul 2026 – Sep 2026</sub></p>
+<p>Little Ark Foundation's website used a legacy WordPress setup. I took on rebuilding the site with Next.js and a modern development stack. I modernized the website's implementation using the same technologies as BloodNetwork.net. The result was a rebuilt foundation website on a Next.js-based stack.</p>
+<p><strong>Stack</strong><br>Next.js · React · TypeScript · Supabase · PostgreSQL · Tailwind CSS · Shadcn UI</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>📱 BNN Donor-Facing App</h3>
+<p><strong>BloodNetwork.net · Mobile Application</strong><br><sub>Mar 2026 – Jul 2026</sub></p>
+<p>BloodNetwork.net needed a mobile interface for donor services. I worked on the donor-facing app, including event booking, contributions, and donation history. I developed the mobile experience with React Native, NativeWind, and Expo, connected to backend services using PostgreSQL for data storage. The resulting app brought these donor workflows together in a dedicated mobile interface.</p>
+<p><strong>Stack</strong><br>React Native · NativeWind · Expo · PostgreSQL</p>
+</td>
+<td width="50%" valign="top">
+<h3>☕ Smart POS System</h3>
+<p><strong>Capstone Project</strong><br><sub>Jan 2025 – Nov 2025</sub></p>
+<p>For my capstone, I worked on a point-of-sale system covering ordering, inventory, and sales tracking. I was responsible for the database, transaction workflows, multi-role access, and sales analytics. I designed the relational data structure and application workflows and built a Chart.js dashboard. The resulting system brought transaction management and sales reporting into one application.</p>
+<p><strong>Stack</strong><br>PHP · MySQL · JavaScript · Tailwind CSS · Chart.js</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🚗 Car Rental Management System</h3>
+<p><strong>Freelance Project</strong><br><sub>Jan 2025 – Jun 2025</sub></p>
+<p>This freelance project required an application for car rental bookings and vehicle management. I handled development of the database, booking workflows, and administrative dashboard. I implemented reservations, customer and fleet management, analytics, reports, and Nodemailer notifications. The delivered application combined rental administration and reporting with automated customer email notifications.</p>
+<p><strong>Stack</strong><br>PHP · MySQL · JavaScript · Tailwind CSS · Nodemailer · Chart.js · Sweet Alert</p>
+</td>
+<td width="50%" valign="top">
+<h3>🎓 GRC Queuing System</h3>
+<p><strong>Global Reciprocal Colleges · 2024</strong><br><sub>Software Developer / IT Support Assistant</sub></p>
+<p>Global Reciprocal Colleges needed software to support student service flow. As a Software Developer / IT Support Assistant, I took on development of a school queuing system in 2024. I built and maintained the system and updated its features based on school needs. This delivered a dedicated queuing tool tailored to the school's service workflows.</p>
+<p><strong>Stack</strong><br>PHP · MySQL · JavaScript · Tailwind CSS · Sweet Alert</p>
 </td>
 </tr>
 </table>
 
+## Experience
 
-## `> Tech Stack`
+| Role | Organization | Period |
+| --- | --- | --- |
+| AI Engineer | Little Ark Foundation Inc. | Nov 2025 – Aug 2026 |
+| Freelance Software Developer | Client projects | Jul 2024 – Present |
+| Software Developer / IT Support Assistant | Global Reciprocal Colleges | Jul 2022 – Jul 2026 |
 
-<div align="center">
+Additional work includes rebuilding Little Ark Foundation’s legacy WordPress website with **Next.js (Jul–Sep 2026)**. At Global Reciprocal Colleges, I developed the **school queuing system in 2024** as part of my Software Developer / IT Support Assistant role.
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,vue,tailwind,bootstrap,nodejs,php,postgres,mysql,supabase,git,github,vscode&theme=dark&perline=15" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Expo-161B22?style=flat-square&logo=expo&logoColor=white" />
-<img src="https://img.shields.io/badge/React_Native-161B22?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Playwright-161B22?style=flat-square&logo=playwright&logoColor=2EAD33" />
-<img src="https://img.shields.io/badge/shadcn/ui-161B22?style=flat-square&logo=shadcnui&logoColor=white" />
-<img src="https://img.shields.io/badge/Chart.js-161B22?style=flat-square&logo=chartdotjs&logoColor=FF6384" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Codex-161B22?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Claude_Code-161B22?style=flat-square&logo=anthropic&logoColor=D97757" />
-<img src="https://img.shields.io/badge/Cursor-161B22?style=flat-square&logo=cursor&logoColor=white" />
-
-</div>
-
-<br/>
-
-<table>
-<tr>
-
-<td width="33%" valign="top">
-
-### `01 │ FRONTEND`
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js&theme=dark" />
-
-<br/>
-
-**Core**
-
-Next.js · React · TypeScript · JavaScript
-
-**UI**
-
-Tailwind CSS · shadcn/ui · Bootstrap
-
-**Additional**
-
-Vue.js
-
-</td>
-
-<td width="33%" valign="top">
-
-### `02 │ BACKEND + DATABASE`
-
-<img src="https://skillicons.dev/icons?i=supabase,postgres,mysql,php,nodejs&theme=dark" />
-
-<br/>
-
-**Backend**
-
-PHP · Node.js · REST APIs
-
-**Database**
-
-Supabase · PostgreSQL · MySQL
-
-**Architecture**
-
-Authentication · RBAC
-
-</td>
-
-<td width="33%" valign="top">
-
-### `03 │ DEV TOOLS`
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
-
-<br/>
-
-**Mobile**
-
-Expo · React Native
-
-**Testing**
-
-Playwright · Manual QA
-
-**Development**
-
-Codex · Claude Code · Cursor · VS Code
-
-**Tools**
-
-Git · GitHub · Chart.js
-
-</td>
-
-</tr>
-</table>
-
-## `> Featured Projects`
-
-<table>
-<tr>
-<td>
-
-### 🩸 BloodNetwork.net
-
-**NPO Startup · Internship**
-`Nov 2025 — Aug 2026`
-
-<p>
-  <img src="https://img.shields.io/badge/Next.js-161B22?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-161B22?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-161B22?style=flat-square&logo=typescript&logoColor=3178C6" />
-  <img src="https://img.shields.io/badge/Supabase-161B22?style=flat-square&logo=supabase&logoColor=3ECF8E" />
-  <img src="https://img.shields.io/badge/PostgreSQL-161B22?style=flat-square&logo=postgresql&logoColor=4169E1" />
-  <img src="https://img.shields.io/badge/Expo-161B22?style=flat-square&logo=expo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind-161B22?style=flat-square&logo=tailwindcss&logoColor=06B6D4" />
-</p>
-
-Full-stack blood donation and blood bank management system spanning **web and mobile applications**.
-
-Built and worked on features involving donor event booking, authentication, role-based access control, QR workflows, inventory and processing flows, analytics dashboards, and automated system-generated reports.
-
-**700+ QA test cases** covering RBAC, UI validation, functional testing, regression, smoke testing, and UAT.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<table>
-<tr>
-<td>
-
-### ☕ Smart POS System
-
-**Capstone Project**
-`Jan 2025 — Nov 2025`
-
-<p>
-  <img src="https://img.shields.io/badge/PHP-161B22?style=flat-square&logo=php&logoColor=777BB4" />
-  <img src="https://img.shields.io/badge/MySQL-161B22?style=flat-square&logo=mysql&logoColor=4479A1" />
-  <img src="https://img.shields.io/badge/JavaScript-161B22?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/Tailwind-161B22?style=flat-square&logo=tailwindcss&logoColor=06B6D4" />
-  <img src="https://img.shields.io/badge/Chart.js-161B22?style=flat-square&logo=chartdotjs&logoColor=FF6384" />
-</p>
-
-Multi-role point-of-sale system for ordering and transaction management.
-
-Includes a **sales analytics dashboard, relational database architecture, transaction workflows, user roles, and complete technical documentation.**
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<table>
-<tr>
-<td>
-
-### 🚗 Car Rental Management System
-
-**Freelance Project**
-`Jan 2025 — Jun 2025`
-
-<p>
-  <img src="https://img.shields.io/badge/PHP-161B22?style=flat-square&logo=php&logoColor=777BB4" />
-  <img src="https://img.shields.io/badge/MySQL-161B22?style=flat-square&logo=mysql&logoColor=4479A1" />
-  <img src="https://img.shields.io/badge/JavaScript-161B22?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/Tailwind-161B22?style=flat-square&logo=tailwindcss&logoColor=06B6D4" />
-  <img src="https://img.shields.io/badge/Chart.js-161B22?style=flat-square&logo=chartdotjs&logoColor=FF6384" />
-  <img src="https://img.shields.io/badge/Nodemailer-161B22?style=flat-square&logo=gmail&logoColor=EA4335" />
-</p>
-
-Booking and fleet management platform with an administrative dashboard for **vehicle inventory, reservations, analytics, reporting, and customer management.**
-
-Integrated automated email notifications using **Nodemailer**.
-
-</td>
-</tr>
-</table>
-
----
-
-## `> Quality Engineering`
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/700%2B-QA_TEST_CASES-1F6FEB?style=for-the-badge&logo=checkmarx&logoColor=white" />
-<img src="https://img.shields.io/badge/Playwright-161B22?style=for-the-badge&logo=playwright&logoColor=2EAD33" />
-
-</div>
-
-<br/>
-
-<table>
-<tr>
-<td>
-
-```text
-Coverage   RBAC · UI Validation · Functional · Regression · Smoke · UAT
-Tools      Playwright · Manual Testing · Bug Tracking
-Workflow   Reproduce → Document → Fix → Verify
-```
-
-Designed and executed **700+ QA test cases** during my internship work with Little Ark Foundation Inc.
-
-I work on both sides of delivery — **building features and verifying them.**
-
-My testing experience covers authentication, role-based access control, form validation, responsive interfaces, CRUD workflows, end-to-end user journeys, regression testing, and defect verification.
-
-</td>
-</tr>
-</table>
-
----
-
-## `> Github Stats`
-
-<div align="center">
-
-
-
-<img
-width="60%"
-src="https://streak-stats.demolab.com?user=Jay-Scripts&hide_border=true&background=00000000&ring=58A6FF&fire=79C0FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=6E7681&currStreakNum=E6EDF3&sideNums=E6EDF3"
-/>
-
-</div>
-
-
-
-</div>
-
-
-
-</div>
+**Education:** BS Information Technology, Global Reciprocal Colleges · 2026
 
 ---
 
 <div align="center">
 
-### `> connect`
+**Have a project in mind? Let's connect.**
 
-<a href="https://cornelio-portfolio.vercel.app/"><b>Portfolio</b></a>
-  ·   <a href="https://linkedin.com/in/corneliogatbonton"><b>LinkedIn</b></a>
-  ·   <a href="mailto:corneliogatbontonjr21@gmail.com"><b>Email</b></a>
-
-<br/><br/>
-
-<img
-src="https://komarev.com/ghpvc/?username=Jay-Scripts&label=PROFILE+VIEWS&color=1f6feb&style=flat-square"
-/>
-
-<br/><br/>
-
-<img
-width="100%"
-src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0d1117,50:161b22,100:1f6feb&section=footer"
-/>
-
-<sub>BUILD · TEST · SHIP</sub>
+[Portfolio](https://cornelio-portfolio.vercel.app/) · [LinkedIn](https://linkedin.com/in/corneliogatbonton) · [Email](mailto:corneliogatbontonjr21@gmail.com)
 
 </div>
